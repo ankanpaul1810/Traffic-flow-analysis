@@ -1,0 +1,10 @@
+{
+  "total_vehicles": 197,
+  "lane_counts": {
+    "1": 88,
+    "2": 72,
+    "3": 37
+  },
+  "total_frames": 9184,
+  "processing_date": "2025-09-10T20:44:48.426464"
+}
